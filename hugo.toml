@@ -1,0 +1,4 @@
+baseURL = 'https://nullmq.github.io/'
+languageCode = 'en-us'
+title = 'NullMQ Site'
+theme = 'ananke'
